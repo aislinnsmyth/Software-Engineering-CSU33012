@@ -11,10 +11,19 @@ My code requests access to the authorization token of the acquired github accoun
 
 I have also left in my graph visualistion code as my graphs did not generate accurately, I will leave them to see the anticipated idea.
 
+To run my code, must have python downloaded, my code uses python3.
+(You can check by using python --version in the cmdprmpt).
+
+In the terminal, navigate to the file with the code inside and type: 'python3 style.py'
+
+You will be prompted for an access_token, here you enter the personalised access token of the github you would like to explore.
+
 
 <img width="443" alt="Python Visualisation " src="https://user-images.githubusercontent.com/72949599/149622432-4ff770cd-1e9f-449a-afff-59ccdeb08cfa.png">
 
-The above image shows the visualisation of the produced output from the Github API
+The above image shows the visualisation of the produced output from the Github API.
+
+
 
 
 
